@@ -2,8 +2,8 @@
 Angular Architecture for Backend and Frontend
 
 ## Check at
- - https://nest-angular.appspot.com
- - https://nest-angular.appspot.com/api/sample
+ - App: https://nest-angular.appspot.com
+ - API: https://nest-angular.appspot.com/api/sample
 
 ## How to use?
 
