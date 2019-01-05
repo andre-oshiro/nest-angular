@@ -24,7 +24,7 @@ npm run start
 ```
 
 ### Application at
-`localhost:3000`
+`localhost:8080`
 
 ### API at
-`localhost:3000/api/sample`
+`localhost:8080/api/sample`
