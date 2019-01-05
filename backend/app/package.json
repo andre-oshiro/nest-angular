@@ -1,0 +1,34 @@
+{
+    "name": "app",
+    "version": "0.0.0",
+    "description": "Merged frontend and backend dependencies.",
+    "author": "",
+    "scripts": {
+      "start": "node ./main.js"
+    },
+    "dependencies": {
+      "//////////// ng //////////// ": "Angular dependencies.",  
+      "@angular/animations": "~7.1.0",
+      "@angular/common": "~7.1.0",
+      "@angular/compiler": "~7.1.0",
+      "@angular/core": "~7.1.0",
+      "@angular/forms": "~7.1.0",
+      "@angular/platform-browser": "~7.1.0",
+      "@angular/platform-browser-dynamic": "~7.1.0",
+      "@angular/router": "~7.1.0",
+      "core-js": "^2.5.4",
+      "tslib": "^1.9.0",
+      "zone.js": "~0.8.26",
+  
+      "//////////// nest ////////////": "NestJS dependencies.",  
+      "@nestjs/common": "^5.4.0",
+      "@nestjs/core": "^5.4.0",
+      "reflect-metadata": "^0.1.12",
+      "rimraf": "^2.6.2",
+      "typescript": "^3.0.1",
+  
+      "//////////// both ////////////": "Angular and NestJS dependencies.",  
+      "rxjs": "~6.3.3"
+    }
+}
+  
