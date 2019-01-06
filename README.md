@@ -15,7 +15,7 @@ npm install
 cd backend
 npm install
 npm run build
-npm run start
+npm run start:prod
 ```
 
 ### Application at
